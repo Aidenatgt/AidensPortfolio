@@ -98,7 +98,7 @@ async function create_project(project_dir) {
   // If the project has an image include it below the title.
   if (project.image != null) {
     const image = document.createElement("img");
-    image.src = `assets/${project.image}`;
+    image.src = `${project_dir}/${project.image}`;
     image.alt = project.image_desc;
 
     project_div.appendChild(image);
