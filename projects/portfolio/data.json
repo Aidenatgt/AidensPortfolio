@@ -1,5 +1,6 @@
 {
   "title": "Portfolio",
   "short": "No frameworks, no Node.js, no WASM. A generic template for a portfolio website.",
-  "long": "A longer description of the project"
+  "long": "I wanted to practice two main things with this project: managing a repository that multiple people are working on, and web development. I invited my friend Alex to work with me on this project because I needed a collaborator and he wanted to learn how these kinds of things work. Once I had a partner to work with, I needed a plan for the project. A lot of people get into web development using frameworks like Angular.js. These are very powerful tools but I don't think they help very much when it comes to understanding what's actually going on in the program. Not using tools like these forces me to become capable with only vanilla HTML, CSS, and JavaScript. There was an additional design goal with this project: I wanted it to be useful for anyone who wants to use it as a template. This means that everything specific to me and many things that are subjective should be able to be controlled from a `config.json` file and a `style.css` file.",
+  "repo": "https://github.com/Aidenatgt/Portfolio"
 }
