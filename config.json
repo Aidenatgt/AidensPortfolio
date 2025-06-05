@@ -2,19 +2,19 @@
   "formats": [
     {
       "key": "name",
-      "value": "Name"
+      "value": "Aiden"
     },
     {
       "key": "email",
-      "value": "your@email.com"
+      "value": "aidenatchs@gmail.com"
     },
     {
       "key": "github",
-      "value": "YourGithub"
+      "value": "Aidenatgt"
     },
     {
       "key": "github-link",
-      "value": "github.com/YourGithub"
+      "value": "github.com/Aidenatgt"
     }
   ]
 }
