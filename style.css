@@ -44,7 +44,7 @@ header {
 .project>img {
   width: 100%;
   transition: max-width 0.3s ease;
-  max-width: 25%;
+  max-width: 30%;
   cursor: pointer;
 }
 
@@ -103,10 +103,6 @@ header {
   .project {
     justify-content: center;
   }
-
-  .project>img {
-    width: 70%;
-  }
 }
 
 @media (max-height: 20cm) {
@@ -118,11 +114,6 @@ header {
     margin-bottom: 5px;
   }
 
-  .project>img {
-    height: 10rem;
-    width: auto;
-    margin: 7px;
-  }
 }
 
 .bottom-bar {
