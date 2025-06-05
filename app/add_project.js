@@ -101,6 +101,10 @@ async function create_project(project_dir) {
     image.src = `${project_dir}/${project.image}`;
     image.alt = project.image_desc;
 
+    image.addEventListener("click", () => {
+      image.classList.toggle("zoomed");
+    });
+
     project_div.appendChild(image);
   }
 

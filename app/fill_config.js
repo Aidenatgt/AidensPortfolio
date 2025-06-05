@@ -1,6 +1,6 @@
 export default async function fill() {
   try {
-    const res = await fetch("../config.json");
+    const res = await fetch("config.json");
     const data = await res.json();
     console.log("Config loaded:", data);
 

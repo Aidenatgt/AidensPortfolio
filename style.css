@@ -38,12 +38,20 @@ header {
   border-radius: 10px;
   margin: 15px 2% 5px 2%;
   border: 3px solid black;
-  padding: 3px 3px 3px 3px;
+  padding: 3px 15px 3px 15px;
 }
 
 .project>img {
-  width: 25%;
-  margin: 10px;
+  width: 100%;
+  transition: max-width 0.3s ease;
+  max-width: 25%;
+  cursor: pointer;
+}
+
+.project>img.zoomed {
+  max-width: 100%;
+  left: 50%;
+  transform: translate(0%, 0%);
 }
 
 .project-title>h3 {
