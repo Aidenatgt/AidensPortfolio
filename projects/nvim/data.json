@@ -1,0 +1,8 @@
+{
+  "title": "Neovim",
+  "image": "NeovimDemo.png",
+  "image_desc": "several panes of my neovim config",
+  "short": "I wanted to use Neovim and I didn't want to use a distro.",
+  "long": "In my mind this is less impressive and more just showing what kind of programmer I am. There are plenty of great programs I can install that give me a fully featured environment to write code and I can even use Vim keybindings, but I still choose to spend hours upon hours configuring neovim. But when I'm working in an environment that I built I am a lot more comfortable and aware of the features.",
+  "repo": "https://github.com/Aidenatgt/nvimdot"
+}

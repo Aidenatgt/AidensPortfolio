@@ -1,0 +1,5 @@
+{
+  "title": "PrePa",
+  "short": "A simple automated presentation partner.",
+  "long": "My projects tend to be overkill solutions to small problems. This is not an exception. I was in a public speaking class and we had to give powerpoint presentations. I didn't feel like switching the slides myself and I didn't want to practice and get it timed, so I wrote a program. The program listens for certain key phrases and whenever you say one of them, it displays the corresponding image. I didn't even end up using it in the class but I thought it was cool so I did it anyway."
+}

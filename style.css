@@ -42,7 +42,7 @@ header {
 }
 
 .project>img {
-  width: 10cm;
+  width: 25%;
   margin: 10px;
 }
 
@@ -84,6 +84,7 @@ header {
 
 .long-desc {
   height: 0;
+  margin: 5px 5px 5px 5px;
   font-size: 12pt;
   max-height: 40vh;
   overflow-y: auto;

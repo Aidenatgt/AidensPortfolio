@@ -1,0 +1,7 @@
+{
+  "title": "Neural Network",
+  "short": "I don't mean I used Tensorflow...",
+  "long": "I'm not sure how I feel about many applications of AI, but I think the technology itself is fantastic and the math is satisfying to me. I love me some good backpropogation. So naturally I decided that since I like this stuff I would make a neural network. From scratch. I used Rust with minimal libraries. The libraries were just things that help implement concurrency, random number generation, and things like that. Nothing that would do the actual neural network part for me. I didn't implement any super fancy SIMD stuff or any optimizations like that, I was also taking classes so we can't be getting too far ahead of ourselves.",
+  "image": "NeuralDemo.png",
+  "image_desc": "several panes of code from the project"
+}
